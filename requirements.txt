@@ -1,0 +1,13 @@
+numpy==1.26.4
+onnx==1.16.2
+onnxruntime==1.18.1
+panopticapi @ git+https://github.com/cocodataset/panopticapi.git@7bb4655548f98f3fedc07bf37e9040a992b054b0
+prettytable==3.11.0
+pycocotools @ git+https://github.com/cocodataset/cocoapi.git@8c9bcc3cf640524c4c20a9c40e89cb6a2f2fa0e9#subdirectory=PythonAPI
+scipy==1.14.0
+submitit==1.5.1
+timm==0.5.4
+torchvision==0.19.0
+tqdm==4.66.5
+transformers==4.16.2
+xmltodict==0.13.0
